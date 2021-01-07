@@ -27,6 +27,8 @@ CD_CMD
 ➜
 ```
 
+[![asciicast](https://asciinema.org/a/uLDzFDwjH2PfqBZxo1XIXXL4g.svg)](https://asciinema.org/a/uLDzFDwjH2PfqBZxo1XIXXL4g)
+
 ### Only tested on a MAC
 
 ### Similar tools that can be used in conjunction
