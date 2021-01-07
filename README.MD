@@ -36,3 +36,6 @@ CD_CMD
 Learns you directory patterns and then ranks them.
 
 https://github.com/rupa/z
+
+Jump to previous directories with simple key word.
+https://github.com/wting/autojump
