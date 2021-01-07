@@ -1,4 +1,4 @@
-# Shell Dirctory Navigation
+# List and Directory change utility
 
 Bouncing between Directories can be challenging.
 
